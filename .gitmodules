@@ -1,0 +1,3 @@
+[submodule "ExchangeClient"]
+	path = ExchangeClient
+	url = git://github.com/Heartspring/Exchange-Web-Services-for-PHP.git
